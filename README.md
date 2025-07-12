@@ -22,7 +22,6 @@ ArxivAgent is a multi-agent AI tool built with Microsoft's AutoGen framework tha
 * GPT-4o (via OpenAI)
 * Python 3.12
 * ArXiv API
-* Role-specific system prompts
 
 ## 🗂️ Project Structure
 

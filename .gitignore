@@ -218,7 +218,7 @@ src/__init__.py
 
 # Ignore virtual environment folder
 venv/
-env-algogenie/
+autogen-arxiv-researcher/
 
 # Ignore model files and weights
 model/
