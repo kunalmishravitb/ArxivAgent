@@ -217,15 +217,10 @@ src/__init__.py
 .env
 
 # Ignore virtual environment folder
-venv/
 autogen-arxiv-researcher/
 
 # Ignore model files and weights
 model/
-
-# Ignore Python package metadata
-Medical_Chatbot.egg-info/
-
 
 **/__init__.py
 
