@@ -83,7 +83,7 @@ task = f"Conduct a literature review on the topic - {topic} and return exactly 1
 
 You can also adjust the number of papers requested.
 
-## 🔧 Upcoming Improvements
+## 🔧 Future Improvements
 
 * ✅ Streamlit Frontend (WIP)
 * 📚 Filter by paper date, category
